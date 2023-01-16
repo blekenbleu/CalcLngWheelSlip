@@ -1,5 +1,6 @@
 # SimHub-Plugin: Calculate Longitudinal Wheel Slip
-This is a plugin for [SimHub](http://www.simhubdash.com/)
+This is a plugin for [SimHub](http://www.simhubdash.com/)  
+*Cloned from [viper4gh/SimHub-Plugin-CalcLngWheelSlip](https://github.com/viper4gh/SimHub-Plugin-CalcLngWheelSlip)*  
 
 It calculates the longitudinal (in driving direction) wheel slip by the relationship between Tyre RPS and Car Speed, and provides the result as new properties.\
 You can use these new properties to visualize lock and spin of wheels via a Dash for example, which can help to improve your brake and throttle input or optimize brake balance, ABS/TC, ARB and differential settings.\
